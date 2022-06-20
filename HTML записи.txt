@@ -1,0 +1,5 @@
+HTML-HyperText Markup Language-язык гипертекстовой разметки
+HTTP-HyperText Transfer protocol-протокол передачи гипертекста
+TLS-Transport Layer Security-безопастность транспортного уровня
+HTTP+TLS=HTTPS-безопастность
+target=''_blank''- для того что-бы открылась ссылка в новом окне(используется в body)
